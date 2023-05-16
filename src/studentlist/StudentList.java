@@ -10,7 +10,6 @@ import java.util.Scanner;
 public class StudentList {
 
     //hello this is comment
-    // hello this is rollback/revert comment
     public static void main(String[] args) {
         
         Student s1 = new Student("Aryan","s1");
