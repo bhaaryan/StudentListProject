@@ -8,7 +8,7 @@ package studentlist;
 public class Student {
     private String sname;
     private String sID;
-
+// this has been edited on github.com to show fetchmerge
     public Student(String sname, String sID) {
         this.sname = sname;
         this.sID = sID;
